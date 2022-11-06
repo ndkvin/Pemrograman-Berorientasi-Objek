@@ -47,7 +47,7 @@ public class PPBO_07_Tugas2 {
 
 /*
  *  jelaskan perbedaan cara kerja dari PrintWriter.write() dan DataOutputStream.writeBytes()
- *  - PrintWriter.write() digunakan untuk menulis satu spesifik karakter ke output stream pada satu waktu
- *  - DataOutputStream.writeBytes() Digunakan untuk menulis string ke output stream dalam bentuk urutan byte
+ *  - PrintWriter.write() digunakan untuk menulis string ke output stream secara langsung
+ *  - DataOutputStream.writeBytes() Digunakan untuk menulis string ke output stream dalam bentuk urutan bytes
  *    
  */ 
