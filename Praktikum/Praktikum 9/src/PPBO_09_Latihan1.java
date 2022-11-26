@@ -59,7 +59,7 @@ class Axe extends Weapon implements IInfusable {
 
   @Override
   public void infuse(String element) {
-    System.out.println(this.name+ " is infused with " + element + ", enhancing power!");
+    System.out.println(this.name+ " is infused with " + element + ", enhancing its power!");
   }
 
   @Override
