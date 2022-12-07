@@ -39,8 +39,7 @@ public class PPBO_11_Latihan2 {
 *      
 * 2.   Mengapa setiap run, program bisa menghasilkan output yang berbeda padahal kode diimplementasi secara adil (setiap car "bergerak"
 *      selama 3 detik) dan kode tidak ada yg diubah? Jelaskan!
-*      Jawab: Thread yang ada pada program tidak saling berkomunikasi satu sama lain. Sehingga eksekusi thread akan bergantung pada penjadwalan proses yang ada di dalam sistem operasi. Ini yang menyebabkan hasil yang ditampilkan bisa *
-berbeda-beda
+*      Jawab: Thread yang ada pada program tidak saling berkomunikasi satu sama lain. Sehingga eksekusi thread akan bergantung pada penjadwalan proses yang ada di dalam sistem operasi. Ini yang menyebabkan hasil yang ditampilkan bisa berbeda-beda
 * 
 * 
 * 3.   Anggap source code akan dimodifikasi menjadi:
